@@ -89,7 +89,7 @@ $(function(){
         $("#preloader").hide();
         $("#body").show();
 
-    },1000);
+    },10000);
   
 
   
